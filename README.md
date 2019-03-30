@@ -1,6 +1,6 @@
 # DRO<img src="https://raw.githubusercontent.com/devinrayolsen/DRO-Matic/master/Docs/images/hydro-hyphen.png" width="64">Matic OS
 
-The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you! 
+The DRO-Matic OS has been built to automate nearly every aspect of hydroponic farming for you. 
 From nutrient dosing to pH / EC drift fixing, feeding types to draining, top-offs and even timers; we have quantified everything you need to automate successful crops. 
 
 Users create, configure and share what are called "crops" by interfacing with an LCD screen and external MicroSD card. 
@@ -13,7 +13,7 @@ It's undoubtedly true across all cultures that agriculture and food growth is no
 Agriculture is not only expensive in amount of land used, but also time spent to get a harvest and even energy burned to obtain consistent quality.
 While humans can expect another 9 billion people over the next 30 years; we need to seriously address the fact that as of today 90% of all farmable land is currently being used at its max capacity.
 
-The technology to solve feeding 9 billion people is available and also removes the costly impacts of large soil based farms, it’s called vertical hydroponic farming.
+The technology to solve feeding 9 billion people is available and also removes the costly impacts of large soil based farms, itâ€™s called vertical hydroponic farming.
 Vertical farms save vital land usage by summing farms up into much smaller (stackable) areas. Vertical gardens save time/money at food production because it's quicker to achieve a consistent crop quality ALL YEAR LONG.
 
 (this video explains the problem and pros of vertical farming in further detail)
